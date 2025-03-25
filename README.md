@@ -1,0 +1,5 @@
+# FullCycle: Full Stage Adversarial Attack For Reinforcement Learning Robustness Evaluation
+
+## Abstract![FullCycle_White](https://github.com/user-attachments/assets/0672f3bf-d9b3-4e6b-81cf-1c64cd1f28b5)
+
+Recent advances in deep reinforcement learning (DRL) have demonstrated significant potential in applications such as autonomous driving and embodied intelligence. However, these large-scale, multi-parametric DRL models remain vulnerable to adversarial examples, while their prolonged training durations incur substantial temporal and economic costs.Current methods primarily focus on adversarial attacks during isolated training phases, whereas practical implementations may face interference across all training stages. To address this gap, we propose FullCycle, a full stage adversarial attack method that systematically assesses DRL robustness by injecting perturbations throughout the complete training pipeline. Experimental results reveal that introducing FullCycle adversarially perturbs algorithm convergence speed and agent performance to varying degrees. This work establishes a novel paradigm for robustness evaluation in reinforcement learning systems.
