@@ -1,4 +1,4 @@
-# FullCycle: Full Stage Adversarial Attack For Reinforcement Learning Robustness Evaluation(CVPR 2025 Workshop on Advml)
+# FullCycle: Full Stage Adversarial Attack For Reinforcement Learning Robustness Evaluation
 ## **This work was supported by National Key Research and Development Project of China under Grant 2022YFB4300400.**
 
 ## Abstract![FullCycle_White](https://github.com/user-attachments/assets/0672f3bf-d9b3-4e6b-81cf-1c64cd1f28b5)
